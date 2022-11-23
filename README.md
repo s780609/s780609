@@ -1,9 +1,6 @@
 Coding for fun and money 🚀     
 Hi, I am a .NET full-stack developer.  
 
-* 3 years+ backend C# .NET MVC & WebApi experience
-* 3 years+ front-end javascript experience
-
 ##### Skill
 | backEnd | frontEnd | database |
 |---|---|---|

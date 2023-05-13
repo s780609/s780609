@@ -5,9 +5,9 @@ Hi, I am a .NET full-stack developer.
 | backEnd | frontEnd | database |
 |---|---|---|
 | .NET | JavaScript | SQL Server 2019 
-| ASP.NET MVC | React.js | N/A
-| ASP.NET WebApi | Vue.js | N/A
-| ASP.NET Webform | Next.js | N/A
+| ASP.NET MVC | React.js | 
+| ASP.NET WebApi | Vue.js | 
+| ASP.NET Webform | Next.js | 
 <!--
 **s780609/s780609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

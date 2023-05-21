@@ -2,7 +2,7 @@ Coding for fun and money 🚀
 Hi, I am a .NET full-stack developer.  
 
 ##### Skill
-| backEnd | frontEnd | database |
+| backend | frontend | database |
 |---|---|---|
 | .NET | JavaScript | SQL Server 2019 
 | ASP.NET MVC | React.js | Oracle

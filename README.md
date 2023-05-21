@@ -5,7 +5,7 @@ Hi, I am a .NET full-stack developer.
 | backEnd | frontEnd | database |
 |---|---|---|
 | .NET | JavaScript | SQL Server 2019 
-| ASP.NET MVC | React.js | 
+| ASP.NET MVC | React.js | Oracle
 | ASP.NET WebApi | Vue.js | 
 | ASP.NET Webform | Next.js | 
 <!--

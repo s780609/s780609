@@ -1,5 +1,5 @@
-Coding for fun and money 🚀     
-Hi, I am a .NET full-stack developer.  
+Coding for banana 🚀     
+Hi, I am a .NET full-stack ape.  
 
 ##### Skill
 | backend | frontend | database |

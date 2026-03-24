@@ -1,4 +1,4 @@
-Coding for banana 🚀     
+Coding for banana 🍌     
 Hi, I am a .NET full-stack ape.  
 
 ##### Skill

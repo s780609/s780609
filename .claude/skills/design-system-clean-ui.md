@@ -108,8 +108,8 @@ Reference these rules when making any UI/design decisions.
 
 ### 4.2 Button Height Alignment (Ring Fix)
 
-- A button with a ring/border will be **2px taller** than one without.
-- Fix: wrap the bordered button in a `<span>` with `inline-flex p-px`, then use `calc()` to equalize visual height.
+- A button with a border will be 2px taller than one without (note: Tailwind ring does not affect height).
+- Fix: Use ring instead of border to maintain consistent height, or apply a transparent border (border-transparent) to the unbordered button to match.
 - This is a subtle but critical alignment detail.
 
 ### 4.3 Well-Styled Container (Sunken Container)
